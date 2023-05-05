@@ -9,6 +9,18 @@ ul {
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.logo{
+   font-size: 24px;
+   color: #F9FAF8; 
+}
+
+
 footer {
     color: white;
     text-align: center;
