@@ -92,7 +92,6 @@ h2 {
 .testimonial {
     font-style: italic;
     font-size: 36px;
- 
 
 }
 
@@ -100,6 +99,42 @@ h2 {
     font-weight: 700;
     text-align: right;
 
+}
+
+.action{
+    padding: 100px 200px;
+
+}
+
+.just-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.blue {
+    background-color: #3882F6;
+    padding: 30px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.call-title {
+    color: white;
+    font-weight: 700;
+}
+
+.call-detailed {
+    color:white;
+}
+
+.signup.footer {
+    padding: 3px 25px;
+    background-color: #3882F6;
+    border-color: white;
+    color: white;
+    width: 100px;
+    /*google css rounded corners*/
 }
 
 footer {
