@@ -27,7 +27,7 @@ a {
 .header {
     display: flex;
     align-items: center;
-    padding: 15px 150px;
+    padding: 15px 250px;
     justify-content: space-between;
 
 }
@@ -71,7 +71,7 @@ img {
 
 .intro {
     display: flex;
-    padding: 100px 150px;
+    padding: 100px 250px;
     gap: 105px;
     /*need to fix this section*/
     
