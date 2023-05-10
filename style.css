@@ -59,7 +59,6 @@ img {
     width: 100px;
     border-radius: 5px;
     border: 0px;
-    /*google css rounded corners*/
 }
 
 .left {
@@ -136,7 +135,10 @@ h2 {
     border-color: white;
     color: white;
     width: 100px;
-    /*google css rounded corners*/
+    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    
 }
 
 footer {
