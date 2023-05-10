@@ -85,6 +85,12 @@ h2 {
     text-align: center;
 }
 
+.card {
+    border: 5px solid #3882F6;
+    border-radius: 5px;
+    padding: 50px;
+}
+
 .quote {
     background-color: #E5E7EB;
     padding: 100px 350px;
