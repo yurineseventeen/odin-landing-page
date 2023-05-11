@@ -83,6 +83,7 @@ h2 {
     color: #1F2937;
     font-weight: extra-bold;
     text-align: center;
+    margin: 80px;
 }
 
 .container {
@@ -98,10 +99,13 @@ h2 {
     width: 100%;
     height: 0;
     padding-top: 100%;
+
 }
 
 .text{
     margin-top: 15px;
+    margin-bottom: 150px;
+
 }
 .quote {
     background-color: #E5E7EB;
