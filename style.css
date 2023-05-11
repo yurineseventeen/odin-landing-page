@@ -88,6 +88,7 @@ h2 {
 .container {
     display: flex;
     gap: 75px;
+    justify-content: center;
 
 }
 
